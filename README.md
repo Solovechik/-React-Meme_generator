@@ -1,2 +1,2 @@
 # React
-# A meme generator
+A meme generator
